@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsilQ
 - 👀 I’m interested in natural language processiong and machine translation
-- 🌱 I’m currently a Science Languages first year master's student (Lexicography, Terminography and Automatic Treatement of Corpus)
+- 🌱 I’m currently a Language Sciences first year master's student (Lexicography, Terminography and Automatic Treatement of Corpus)
 - 💞️ I’m looking to collaborate on begginer projects to learn about NLP and programming languages
 - 📫 Reach me on: asilqraini@gmail.com or LinkedIn: https://www.linkedin.com/in/asilqraini/
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsilQ
 - 👀 I’m interested in natural language processiong and machine translation
-- 🌱 Currently a second year NAtural Language Processing Master's student at Paris Nanterre University
+- 🌱 Currently a second year Natural Language Processing Master's student at Paris Nanterre University
 - 💞️ I’m looking to collaborate on projects to grow in the NLP field
 - 📫 Reach me on: asilqraini@gmail.com or LinkedIn: https://www.linkedin.com/in/asilqraini/
 
